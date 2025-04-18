@@ -1,27 +1,25 @@
   **Markdown**
 
-Markdown support for highlighting is new and seems cool
+> This is a block
+> <br>
+> Note that Header 1 and 2 are followed with separator line after it.
 
-This is a block
-Note that Header 1 and 2 are followed with separator line after it.
 
-Note
+> [!NOTE] 
+> Highlights information that users should take into account, even when skimming.
 
-Highlights information that users should take into account, even when skimming.
+> [!TIP]
+> Optional information to help a user be more successful.
 
-Tip
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
-Optional information to help a user be more successful.
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
 
-Important
+> [!CAUTION]
+> Negative potential consequences of an action.
 
-Crucial information necessary for users to succeed.
 
-Warning
-
-Critical content demanding immediate user attention due to potential risks.
-
-Caution
-
-Negative potential consequences of an action.
-
+```
+1. Code blocks are wrapped using /```/
