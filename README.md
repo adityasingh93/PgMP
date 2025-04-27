@@ -66,7 +66,7 @@ PMI PgMP Guide : Program Management Professional Guide
 <br>
 
 > [!CAUTION]
-> Negative potential consequences of an action. <br>
+> No Negative data, anything potentially wrong as well must be reviewed to consider the impact, before contributing to source. potentially consequences for an action. <br>
 > Avoid unnessary complications, duplications, unethical practices and information <br>
 > Keep it simple, respectful and no personal data of any organization, person, project and any legal entity <br>
 
