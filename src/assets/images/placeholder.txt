@@ -1,0 +1,5 @@
+this is only a place holder to create folder structure to upload files (images).
+
+> [!NOTE] 
+> These images path to be used in reference through out, avoiding any external files references from internet.
+> path from internet can often lead to broken links.
